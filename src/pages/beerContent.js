@@ -1,4 +1,4 @@
-const beerData = [
+const beers = [
     {
         name: 'amstel',
         taste: 6,
@@ -19,4 +19,4 @@ const beerData = [
     }
 ]
 
-export default beerData;
+export default beers;
